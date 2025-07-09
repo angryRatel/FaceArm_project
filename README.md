@@ -9,9 +9,10 @@
 
 ---
 
-## 📑 코드 저장소  
+## 📑 전체 시스탬 구성 코드 저장소  
 - GitHub: [DoosanBootcamp Repo](https://github.com/ROKEY-SPARK/DoosanBootcamp.git)  
-  > `dsr_rokey/rokey/rokey/basic` 경로의 소스를 중심으로 수정 사용
+  > `dsr_rokey/pick_and_place_voice` 경로의 소스를 중심으로 수정 사용
+  > 'dsr_rokey/od_msg'의 서비스 통신 사용
 
 ---
 

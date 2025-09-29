@@ -6,7 +6,7 @@
 ---
 
 ## 🎥 시연 영상  
-[![Demo Video](https://img.youtube.com/vi/wykA4MYREYk/0.jpg)](https://youtu.be/wykA4MYREYk)
+[![Demo Video]([https://img.youtube.com/vi/wykA4MYREYk/0.jpg)](https://youtu.be/wykA4MYREYk](https://youtu.be/91zMsTosK4I))
 
 ---
 

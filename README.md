@@ -6,7 +6,8 @@
 ---
 
 ## 🎥 시연 영상  
-[![Demo Video](https://youtu.be/91zMsTosK4I)
+[![Demo Video](https://img.youtube.com/vi/91zMsTosK4I/0.jpg)](https://youtu.be/91zMsTosK4I)
+
 
 ---
 
